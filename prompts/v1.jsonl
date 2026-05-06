@@ -1,1 +1,3 @@
-Init
+{"id": 1, "task": "hindi_translation", "prompt": "Translate this to Hindi: 'Low-latency systems are the backbone of modern AI.'"}
+{"id": 2, "task": "sva_generation", "prompt": "Write an SVA for a signal 'req' that must be followed by 'ack' within 3 cycles."}
+{"id": 3, "task": "cpp_optimization", "prompt": "Explain the difference between stack and heap allocation for tensor storage."}
